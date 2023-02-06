@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm mehrab from iran👻<br><br>#14/4/1999<br><br>My life =  [ 💻 , 🎸, 🎮, ⚽, 🍕,  😴  ] 
+I'm mehrab from iran👻<br><br>#14/4/1999<br><br>My life =  [ 💻 , 🎸, 🎮, ⚽, 🍕, ♟, 😴  ] 
 
 
 ## 🌐 Socials:
