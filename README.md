@@ -1,7 +1,6 @@
 # 💫 About Me:
 Junior DevOps Engineer focused on CI/CD, containerization, and infrastructure automation. <br>Always exploring better ways to build, ship, and run software.<br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-sajjad-jamali) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mehrabdevops) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehrabdevops) 
 
